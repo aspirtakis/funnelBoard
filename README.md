@@ -1,2 +1,0 @@
-# funnelBoard
-Created with CodeSandbox
